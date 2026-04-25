@@ -1,0 +1,732 @@
+[
+  {
+    "language": "English",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.9437985069475262,
+        "median": 0.0,
+        "std": 1.2879380158698779,
+        "min": 0.0,
+        "max": 16.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.9437985069475262,
+        "median": 1.0,
+        "std": 0.9464718053633299,
+        "min": 0.0,
+        "max": 9.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 5.5198280400070185,
+        "median": 5.0,
+        "std": 3.0073463724943585,
+        "min": 1.0,
+        "max": 27.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 7.088612037199509,
+        "median": 7.0,
+        "std": 3.748737891868296,
+        "min": 1.0,
+        "max": 35.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.09126547515436566,
+        "median": 0.06666666666666667,
+        "std": 0.07405033563267091,
+        "min": 0.006289308176100629,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.09126547515436566,
+        "median": 0.06666666666666667,
+        "std": 0.07405033563267091,
+        "min": 0.006289308176100629,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.1262,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.1841,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Hindi",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.952663900887374,
+        "median": 1.0,
+        "std": 1.1172743146046005,
+        "min": 0.0,
+        "max": 11.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.952663900887374,
+        "median": 1.0,
+        "std": 0.9534749115593223,
+        "min": 0.0,
+        "max": 7.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 7.304870715574263,
+        "median": 7.0,
+        "std": 2.8304918359174502,
+        "min": 1.0,
+        "max": 23.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 8.272399278412507,
+        "median": 8.0,
+        "std": 3.169078194151875,
+        "min": 1.0,
+        "max": 29.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.05790030247529024,
+        "median": 0.05263157894736842,
+        "std": 0.02924838805660203,
+        "min": 0.008620689655172414,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.05790030247529024,
+        "median": 0.05263157894736842,
+        "std": 0.02924838805660203,
+        "min": 0.008620689655172414,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.0471,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.1184,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "German",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.9476787702174384,
+        "median": 0.0,
+        "std": 1.3226986305363113,
+        "min": 0.0,
+        "max": 13.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.9476787702174384,
+        "median": 1.0,
+        "std": 0.9496271515836296,
+        "min": 0.0,
+        "max": 8.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 5.381889477888316,
+        "median": 5.0,
+        "std": 2.2580051196697863,
+        "min": 1.0,
+        "max": 33.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 7.616077263815264,
+        "median": 7.0,
+        "std": 3.2777329891727054,
+        "min": 1.0,
+        "max": 32.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.06848548002286897,
+        "median": 0.058823529411764705,
+        "std": 0.039907316032299765,
+        "min": 0.008695652173913044,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.06848548002286897,
+        "median": 0.058823529411764705,
+        "std": 0.039907316032299765,
+        "min": 0.008695652173913044,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.1401,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.3203,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Spanish",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.962916477091472,
+        "median": 1.0,
+        "std": 1.2138733249108165,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.962916477091472,
+        "median": 1.0,
+        "std": 0.9629764381795927,
+        "min": 0.0,
+        "max": 8.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 7.537935411084473,
+        "median": 7.0,
+        "std": 3.317486678814553,
+        "min": 1.0,
+        "max": 41.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 9.513326752221126,
+        "median": 9.0,
+        "std": 4.121916729031664,
+        "min": 1.0,
+        "max": 37.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.0513209250949721,
+        "median": 0.041666666666666664,
+        "std": 0.03555999057837536,
+        "min": 0.006578947368421052,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.0513209250949721,
+        "median": 0.041666666666666664,
+        "std": 0.03555999057837536,
+        "min": 0.006578947368421052,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.0922,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.222,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Chinese",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.959468229663131,
+        "median": 1.0,
+        "std": 1.27727903274208,
+        "min": 0.0,
+        "max": 11.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.959468229663131,
+        "median": 1.0,
+        "std": 0.9618590544939015,
+        "min": 0.0,
+        "max": 7.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 6.134851138353765,
+        "median": 6.0,
+        "std": 2.1720076017070555,
+        "min": 2.0,
+        "max": 28.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 9.125844383287465,
+        "median": 9.0,
+        "std": 3.6331563326541194,
+        "min": 2.0,
+        "max": 28.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.05034568876764512,
+        "median": 0.045454545454545456,
+        "std": 0.023392739947243512,
+        "min": 0.009009009009009009,
+        "max": 0.25
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.05034568876764512,
+        "median": 0.045454545454545456,
+        "std": 0.023392739947243512,
+        "min": 0.009009009009009009,
+        "max": 0.25
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.1069,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.4061,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Arabic",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.9732757040884285,
+        "median": 1.0,
+        "std": 1.1170460227944528,
+        "min": 0.0,
+        "max": 36.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.9732757040884285,
+        "median": 1.0,
+        "std": 0.9732261755480498,
+        "min": 0.0,
+        "max": 7.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 9.981435022579026,
+        "median": 10.0,
+        "std": 4.6685945523337455,
+        "min": 1.0,
+        "max": 48.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 11.349389530021742,
+        "median": 11.0,
+        "std": 5.925572911439155,
+        "min": 1.0,
+        "max": 65.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.05149272621229838,
+        "median": 0.030303030303030304,
+        "std": 0.05867303145871141,
+        "min": 0.002512562814070352,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.05149272621229838,
+        "median": 0.030303030303030304,
+        "std": 0.05867303145871141,
+        "min": 0.002512562814070352,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.0239,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.1121,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Russian",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.942622256052971,
+        "median": 0.0,
+        "std": 1.3271614120261435,
+        "min": 0.0,
+        "max": 12.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.942622256052971,
+        "median": 1.0,
+        "std": 0.943948749682509,
+        "min": 0.0,
+        "max": 8.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 5.0706040812779705,
+        "median": 5.0,
+        "std": 2.659896145599873,
+        "min": 1.0,
+        "max": 29.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 7.064260576129303,
+        "median": 7.0,
+        "std": 3.4943225011600676,
+        "min": 1.0,
+        "max": 42.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.08590687771108638,
+        "median": 0.06666666666666667,
+        "std": 0.06374899652066299,
+        "min": 0.004878048780487805,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.08590687771108638,
+        "median": 0.06666666666666667,
+        "std": 0.06374899652066299,
+        "min": 0.004878048780487805,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.1406,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.2472,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Japanese",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.9581459455926997,
+        "median": 1.0,
+        "std": 1.0764686830206185,
+        "min": 0.0,
+        "max": 25.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.9581459455926997,
+        "median": 1.0,
+        "std": 0.9594727850880025,
+        "min": 0.0,
+        "max": 8.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 8.494677075940384,
+        "median": 8.0,
+        "std": 4.117422181525138,
+        "min": 1.0,
+        "max": 28.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 8.724059616749468,
+        "median": 8.0,
+        "std": 4.080238026827086,
+        "min": 1.0,
+        "max": 34.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.06191802933738494,
+        "median": 0.047619047619047616,
+        "std": 0.04684462884926835,
+        "min": 0.007751937984496124,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.06191802933738494,
+        "median": 0.047619047619047616,
+        "std": 0.04684462884926835,
+        "min": 0.007751937984496124,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.0281,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.028,
+        "p_value": 0.0081,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Turkish",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.9095670764297167,
+        "median": 0.0,
+        "std": 1.3038197284121134,
+        "min": 0.0,
+        "max": 13.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.9095670764297167,
+        "median": 1.0,
+        "std": 0.9148687888245598,
+        "min": 0.0,
+        "max": 6.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 3.5141843971631204,
+        "median": 3.0,
+        "std": 1.9640172643582974,
+        "min": 1.0,
+        "max": 12.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 5.071513002364066,
+        "median": 4.0,
+        "std": 2.731952051816488,
+        "min": 1.0,
+        "max": 21.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.1312598668752419,
+        "median": 0.1111111111111111,
+        "std": 0.07884643186562229,
+        "min": 0.019230769230769232,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.1312598668752419,
+        "median": 0.1111111111111111,
+        "std": 0.07884643186562229,
+        "min": 0.019230769230769232,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.1543,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.242,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  },
+  {
+    "language": "Basque",
+    "stats": {
+      "real_arity": {
+        "label": "real_arity",
+        "mean": 0.9260558555101817,
+        "median": 0.0,
+        "std": 1.270653892662612,
+        "min": 0.0,
+        "max": 9.0
+      },
+      "rand_arity": {
+        "label": "rand_arity",
+        "mean": 0.9260558555101817,
+        "median": 1.0,
+        "std": 0.9270023870268015,
+        "min": 0.0,
+        "max": 6.0
+      },
+      "real_depth": {
+        "label": "real_depth",
+        "mean": 4.212008895478132,
+        "median": 4.0,
+        "std": 1.7087542130547941,
+        "min": 1.0,
+        "max": 13.0
+      },
+      "rand_depth": {
+        "label": "rand_depth",
+        "mean": 6.04948109710897,
+        "median": 6.0,
+        "std": 2.5714327182407137,
+        "min": 1.0,
+        "max": 21.0
+      },
+      "real_density": {
+        "label": "real_density",
+        "mean": 0.0935200847694058,
+        "median": 0.08333333333333333,
+        "std": 0.049875337547917155,
+        "min": 0.015625,
+        "max": 0.3333333333333333
+      },
+      "rand_density": {
+        "label": "rand_density",
+        "mean": 0.0935200847694058,
+        "median": 0.08333333333333333,
+        "std": 0.049875337547917155,
+        "min": 0.015625,
+        "max": 0.3333333333333333
+      }
+    },
+    "ks_tests": [
+      {
+        "metric": "arity",
+        "ks_stat": 0.1382,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "depth",
+        "ks_stat": 0.3299,
+        "p_value": 0.0,
+        "significant": 1.0
+      },
+      {
+        "metric": "density",
+        "ks_stat": 0.0,
+        "p_value": 1.0,
+        "significant": 0.0
+      }
+    ]
+  }
+]
